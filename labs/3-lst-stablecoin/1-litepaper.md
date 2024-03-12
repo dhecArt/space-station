@@ -109,7 +109,7 @@ Redemption is performed against users’ position. The user’s position with th
 
 ### Stablecoin Peg via Protocol Token
 
-While redemptions are an effective way to maintain the peg of SUSD, there are undesirable effects for SUSD minters who can be redeemed against even with a healthy debt-to-collateral ratio. To reduce the occurrence of redemption against users’ SOL and to minimize the impact on minter should this occur, we propose the introduction of a XYZ protocol token that can be redeemed against when the price of SUSD is within -5% of $1. (The -5% is arbitrary and can be voted on by the DAO.) This effectively allows market makers to purchase SUSD from the open market for < $1 and redeem $1 worth of the XYZ protocol token.
+While redemptions are an effective way to maintain the peg of SUSD, there are undesirable effects for SUSD minters who can be redeemed against even with a healthy debt-to-collateral ratio. To reduce the occurrence of redemption against users’ SOL and to minimize the impact on minter should this occur, we propose the introduction of a XYZ protocol token that can be redeemed against when the price of SUSD is within -5% of $1. (The -5% is arbitrary and can be voted on by the DAO.) This effectively allows market makers to purchase SUSD from the open market for < $1 and redeem $1 worth of the XYZ protocol token. REVIEW!
 
 In addition to the buy pressure on SUSD by market makers, this 5% tolerance also creates a time buffer for minters to repay their debt at a lower than face value given that their debt is denominated in SUSD without losing collateral. This would further increase buy pressure on SUSD to restore the peg.
 
